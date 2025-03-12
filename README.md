@@ -10,7 +10,7 @@
   - atau
 - $ py .\filename.py
 
-# Penjelasan Penamaan file, folder, Class, Function dan Variabel
+## Penjelasan Penamaan file, folder, Class, Function dan Variabel
 
 - snake_case, UPPER_SNAKE_CASE, kebab-case, camelCase, PascalCase
 - Di pyton:
@@ -19,7 +19,7 @@
   - Penamaan Function: snake_case
   - Penamaan Variable: snake_case
 
-# Extensi tambahan di VSCode:
+## Extensi tambahan di VSCode:
 
 - Python --> by Microsoft
 - Python Debugger --> by Microsoft
