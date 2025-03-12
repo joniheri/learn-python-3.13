@@ -1,8 +1,9 @@
 {
-  "editor.fontSize": 13,
-  "editor.tabSize": 2,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter",
+    "editor.formatOnSave": true
+  },
+  "editor.fontSize": 13,
+  "editor.tabSize": 4
 }
